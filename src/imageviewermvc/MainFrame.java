@@ -6,14 +6,12 @@ import control.NextCommand;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
-import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import model.Image;
-import view.FileImageLoader;
 import view.ImageDisplay;
 import view.SwingImageDisplay;
 
